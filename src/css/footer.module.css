@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap');
+footer
+{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-family: 'roboto', sans-serif;
+    position: relative;
+    bottom: 0;
+}
+
+.footerSection h3
+{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Raleway', sans-serif;
+}
+.quick_links
+{
+    list-style: none;
+    padding: 0;
+}
+.quick_links a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.quick_links a:hover,.icons a:hover
+{
+    color: blue;
+}
+.quick_links a::before
+{
+    content: "\f0a4 ";
+    width: 10vw;
+    height: 50px;
+    margin-right: 5px;
+    font-family: 'font awesome 5 free';
+}
+.icons
+{
+    display: flex;
+    width: 50%;
+    /* align-items: flex-start; */
+    justify-content: space-evenly;
+    /* margin-top: 50px; */
+}
+.icons a
+{
+    font-size: 2rem;
+    color: white;
+}
+.contact
+{
+    line-height: 30px;
+}
+.copy::before
+{
+    border-top: 1px solid gray;
+    width: 30%;
+    color: white;
+    content: "";
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -25px);
+    
+}
+.copy 
+{
+    font-size: small;
+    margin-top: 2rem;
+}
