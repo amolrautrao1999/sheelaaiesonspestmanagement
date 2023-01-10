@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.e648da6d.css",
-    "main.js": "/static/js/main.faa36394.js",
-    "static/media/IMG1.png": "/static/media/IMG1.6ed1aa8e630fd4b17e78.png",
-    "static/media/IMG6.png": "/static/media/IMG6.cbd648fb5c6ea14c9557.png",
-    "static/media/IMG5.png": "/static/media/IMG5.8e9c85546d9277cdf9b1.png",
-    "static/media/Rodent.jpg": "/static/media/Rodent.3cc041f689bfd8fd78b8.jpg",
-    "static/media/imgthumbnail.jpg": "/static/media/imgthumbnail.088278d5fbf5f3286f28.jpg",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/Bed Bugs.jpg": "/static/media/Bed Bugs.b8147fa209c7d610617b.jpg",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/logo.jpg": "/static/media/logo.b5f6a3aaa9e928c357dc.jpg",
-    "static/media/spider.jpg": "/static/media/spider.071e41e76a636129a0d5.jpg",
-    "static/media/flies.jpg": "/static/media/flies.7b0c034060b5d522baf6.jpg",
-    "static/media/weed.jpg": "/static/media/weed.e28403527627f5380fe6.jpg",
-    "static/media/Termites.jpg": "/static/media/Termites.839b3df7cba542bb5092.jpg",
-    "static/media/imgthumbnail2.jpg": "/static/media/imgthumbnail2.2d0fa4b2183bb3f91716.jpg",
-    "static/media/Cockroaches.jpg": "/static/media/Cockroaches.0a5ddb74fa8e211685db.jpg",
-    "index.html": "/index.html",
-    "main.e648da6d.css.map": "/static/css/main.e648da6d.css.map",
-    "main.faa36394.js.map": "/static/js/main.faa36394.js.map"
+    "main.css": "/sheelaaiesonspestmanagement/static/css/main.9ce34ee9.css",
+    "main.js": "/sheelaaiesonspestmanagement/static/js/main.97adc85b.js",
+    "static/media/IMG1.png": "/sheelaaiesonspestmanagement/static/media/IMG1.6ed1aa8e630fd4b17e78.png",
+    "static/media/IMG6.png": "/sheelaaiesonspestmanagement/static/media/IMG6.cbd648fb5c6ea14c9557.png",
+    "static/media/IMG5.png": "/sheelaaiesonspestmanagement/static/media/IMG5.8e9c85546d9277cdf9b1.png",
+    "static/media/Rodent.jpg": "/sheelaaiesonspestmanagement/static/media/Rodent.3cc041f689bfd8fd78b8.jpg",
+    "static/media/imgthumbnail.jpg": "/sheelaaiesonspestmanagement/static/media/imgthumbnail.088278d5fbf5f3286f28.jpg",
+    "static/media/bootstrap-icons.woff?": "/sheelaaiesonspestmanagement/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/Bed Bugs.jpg": "/sheelaaiesonspestmanagement/static/media/Bed Bugs.b8147fa209c7d610617b.jpg",
+    "static/media/bootstrap-icons.woff2?": "/sheelaaiesonspestmanagement/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/logo.jpg": "/sheelaaiesonspestmanagement/static/media/logo.b5f6a3aaa9e928c357dc.jpg",
+    "static/media/spider.jpg": "/sheelaaiesonspestmanagement/static/media/spider.071e41e76a636129a0d5.jpg",
+    "static/media/flies.jpg": "/sheelaaiesonspestmanagement/static/media/flies.7b0c034060b5d522baf6.jpg",
+    "static/media/weed.jpg": "/sheelaaiesonspestmanagement/static/media/weed.e28403527627f5380fe6.jpg",
+    "static/media/Termites.jpg": "/sheelaaiesonspestmanagement/static/media/Termites.839b3df7cba542bb5092.jpg",
+    "static/media/imgthumbnail2.jpg": "/sheelaaiesonspestmanagement/static/media/imgthumbnail2.2d0fa4b2183bb3f91716.jpg",
+    "static/media/Cockroaches.jpg": "/sheelaaiesonspestmanagement/static/media/Cockroaches.0a5ddb74fa8e211685db.jpg",
+    "index.html": "/sheelaaiesonspestmanagement/index.html",
+    "main.9ce34ee9.css.map": "/sheelaaiesonspestmanagement/static/css/main.9ce34ee9.css.map",
+    "main.97adc85b.js.map": "/sheelaaiesonspestmanagement/static/js/main.97adc85b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e648da6d.css",
-    "static/js/main.faa36394.js"
+    "static/css/main.9ce34ee9.css",
+    "static/js/main.97adc85b.js"
   ]
 }
