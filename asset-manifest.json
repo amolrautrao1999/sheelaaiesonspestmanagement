@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sheelaaiesonspestmanagement/static/css/main.0fb39286.css",
-    "main.js": "/sheelaaiesonspestmanagement/static/js/main.0ca3ed65.js",
+    "main.css": "/sheelaaiesonspestmanagement/static/css/main.9ce34ee9.css",
+    "main.js": "/sheelaaiesonspestmanagement/static/js/main.97adc85b.js",
     "static/media/IMG1.png": "/sheelaaiesonspestmanagement/static/media/IMG1.6ed1aa8e630fd4b17e78.png",
     "static/media/IMG6.png": "/sheelaaiesonspestmanagement/static/media/IMG6.cbd648fb5c6ea14c9557.png",
     "static/media/IMG5.png": "/sheelaaiesonspestmanagement/static/media/IMG5.8e9c85546d9277cdf9b1.png",
@@ -18,11 +18,11 @@
     "static/media/imgthumbnail2.jpg": "/sheelaaiesonspestmanagement/static/media/imgthumbnail2.2d0fa4b2183bb3f91716.jpg",
     "static/media/Cockroaches.jpg": "/sheelaaiesonspestmanagement/static/media/Cockroaches.0a5ddb74fa8e211685db.jpg",
     "index.html": "/sheelaaiesonspestmanagement/index.html",
-    "main.0fb39286.css.map": "/sheelaaiesonspestmanagement/static/css/main.0fb39286.css.map",
-    "main.0ca3ed65.js.map": "/sheelaaiesonspestmanagement/static/js/main.0ca3ed65.js.map"
+    "main.9ce34ee9.css.map": "/sheelaaiesonspestmanagement/static/css/main.9ce34ee9.css.map",
+    "main.97adc85b.js.map": "/sheelaaiesonspestmanagement/static/js/main.97adc85b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fb39286.css",
-    "static/js/main.0ca3ed65.js"
+    "static/css/main.9ce34ee9.css",
+    "static/js/main.97adc85b.js"
   ]
 }
