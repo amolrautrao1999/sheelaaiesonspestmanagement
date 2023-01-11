@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sheelaaiesons/static/css/main.5c218272.css",
+    "main.css": "/sheelaaiesons/static/css/main.89ce6061.css",
     "main.js": "/sheelaaiesons/static/js/main.51f2e163.js",
     "static/media/IMG1.png": "/sheelaaiesons/static/media/IMG1.6ed1aa8e630fd4b17e78.png",
     "static/media/IMG6.png": "/sheelaaiesons/static/media/IMG6.cbd648fb5c6ea14c9557.png",
@@ -18,11 +18,11 @@
     "static/media/imgthumbnail2.jpg": "/sheelaaiesons/static/media/imgthumbnail2.2d0fa4b2183bb3f91716.jpg",
     "static/media/Cockroaches.jpg": "/sheelaaiesons/static/media/Cockroaches.0a5ddb74fa8e211685db.jpg",
     "index.html": "/sheelaaiesons/index.html",
-    "main.5c218272.css.map": "/sheelaaiesons/static/css/main.5c218272.css.map",
+    "main.89ce6061.css.map": "/sheelaaiesons/static/css/main.89ce6061.css.map",
     "main.51f2e163.js.map": "/sheelaaiesons/static/js/main.51f2e163.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c218272.css",
+    "static/css/main.89ce6061.css",
     "static/js/main.51f2e163.js"
   ]
 }
